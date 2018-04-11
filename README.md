@@ -1,2 +1,2 @@
-# chellenges
+# Challenges
 Collection of challenges 
